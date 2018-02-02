@@ -30,3 +30,5 @@ dwsync.xml
 
 # App file
 package-lock.json
+packageVersion.json
+readme.md
